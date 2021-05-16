@@ -1,0 +1,5 @@
+node_modules/
+build/
+config/default.json
+config/production.json
+.vscode/
